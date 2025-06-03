@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.log
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+
+# Node/React (frontend)
+node_modules/
+dist/
+build/

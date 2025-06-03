@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B4C18-9DCA-4ADC-9CBA-BA35EBE7396D}|JaydenToDoApp.API\\JaydenToDoApp.API.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.api\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B4C18-9DCA-4ADC-9CBA-BA35EBE7396D}|JaydenToDoApp.API\\JaydenToDoApp.API.csproj|solutionrelative:jaydentodoapp.api\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B4C18-9DCA-4ADC-9CBA-BA35EBE7396D}|JaydenToDoApp.API\\JaydenToDoApp.API.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B4C18-9DCA-4ADC-9CBA-BA35EBE7396D}|JaydenToDoApp.API\\JaydenToDoApp.API.csproj|solutionrelative:jaydentodoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.application\\services\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|solutionrelative:jaydentodoapp.application\\services\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.application\\dtos\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|solutionrelative:jaydentodoapp.application\\dtos\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.application\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|solutionrelative:jaydentodoapp.application\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B4C18-9DCA-4ADC-9CBA-BA35EBE7396D}|JaydenToDoApp.API\\JaydenToDoApp.API.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.api\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B4C18-9DCA-4ADC-9CBA-BA35EBE7396D}|JaydenToDoApp.API\\JaydenToDoApp.API.csproj|solutionrelative:jaydentodoapp.api\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|solutionrelative:jaydentodoapp.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D999C32E-25AD-4F16-9141-4BB85271F2EA}|JaydenToDoApp.Infrastructure\\JaydenToDoApp.Infrastructure.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D999C32E-25AD-4F16-9141-4BB85271F2EA}|JaydenToDoApp.Infrastructure\\JaydenToDoApp.Infrastructure.csproj|solutionrelative:jaydentodoapp.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0F0F56-95FA-4F56-AA5D-BE55394F1544}|JaydenToDoApp.Core\\JaydenToDoApp.Core.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.core\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0F0F56-95FA-4F56-AA5D-BE55394F1544}|JaydenToDoApp.Core\\JaydenToDoApp.Core.csproj|solutionrelative:jaydentodoapp.core\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|c:\\users\\kahuat.lim\\downloads\\jaydentodoapplatest-main\\jaydentodoapplatest-main\\jaydentodoapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C50FC8-34E3-4268-9D97-FA26A2B783A3}|JaydenToDoApp.Application\\JaydenToDoApp.Application.csproj|solutionrelative:jaydentodoapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItemService.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\Services\\ToDoItemService.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Application\\Services\\ToDoItemService.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\Services\\ToDoItemService.cs",
+              "RelativeToolTip": "JaydenToDoApp.Application\\Services\\ToDoItemService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:03:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\DTOs\\ToDoItemDto.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Application\\DTOs\\ToDoItemDto.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\DTOs\\ToDoItemDto.cs",
+              "RelativeToolTip": "JaydenToDoApp.Application\\DTOs\\ToDoItemDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:03:05.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.API\\Program.cs",
+              "RelativeToolTip": "JaydenToDoApp.API\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:47:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Application\\Services\\ToDoService.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\Services\\ToDoService.cs",
+              "RelativeToolTip": "JaydenToDoApp.Application\\Services\\ToDoService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:47:18.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoDto.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\DTOs\\ToDoDto.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Application\\DTOs\\ToDoDto.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\DTOs\\ToDoDto.cs",
+              "RelativeToolTip": "JaydenToDoApp.Application\\DTOs\\ToDoDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:46:30.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Core\\Interfaces\\IToDoRepository.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Core\\Interfaces\\IToDoRepository.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Core\\Interfaces\\IToDoRepository.cs",
+              "RelativeToolTip": "JaydenToDoApp.Core\\Interfaces\\IToDoRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:41:01.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.API\\Controllers\\ToDoItemsController.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.API\\Controllers\\ToDoItemsController.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.API\\Controllers\\ToDoItemsController.cs",
+              "RelativeToolTip": "JaydenToDoApp.API\\Controllers\\ToDoItemsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:39:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Application\\Class1.cs",
+              "RelativeToolTip": "JaydenToDoApp.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:33:54.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Infrastructure\\Repositories\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.Infrastructure\\Repositories\\ToDoRepository.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.Infrastructure\\Repositories\\ToDoRepository.cs",
+              "RelativeToolTip": "JaydenToDoApp.Infrastructure\\Repositories\\ToDoRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:25:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDosController.cs",
+              "DocumentMoniker": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.API\\Controllers\\ToDosController.cs",
+              "RelativeDocumentMoniker": "JaydenToDoApp.API\\Controllers\\ToDosController.cs",
+              "ToolTip": "C:\\Users\\kahuat.lim\\Downloads\\JaydenToDoAppLatest-main\\JaydenToDoAppLatest-main\\JaydenToDoApp.API\\Controllers\\ToDosController.cs",
+              "RelativeToolTip": "JaydenToDoApp.API\\Controllers\\ToDosController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAIAwwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:24:44.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
